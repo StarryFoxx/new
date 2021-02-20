@@ -31,4 +31,5 @@ fields:
   name: dark_mode
   label: Dark mode
 pages:
+- Content/test.md
 - data/theme.json
